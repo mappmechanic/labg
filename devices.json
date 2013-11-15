@@ -1,0 +1,194 @@
+[
+    {
+        "deviceId": "1",
+        "type": "Apple",
+        "deviceName": "Mac Mini",
+        "os": "Machintosh",
+        "osVersion": "10.8",
+        "ram": "4GB",
+        "memory": "250GB",
+        "macId": "XX:YY:ZZ:AA:BB",
+        "accessories": [
+            {
+                "item1": "Power Cord",
+                "item2": "Video Cord"
+            }
+        ]
+    },
+    {
+        "deviceId": "2",
+        "type": "Apple",
+        "deviceName": "Mac Mini",
+        "os": "Machintosh",
+        "osVersion": "10.8",
+        "ram": "4GB",
+        "memory": "250GB",
+        "macId": "XX:YY:ZZ:AA:BB",
+        "accessories": [
+            {
+                "item1": "Power Cord",
+                "item2": "Video Cord"
+            }
+        ]
+    },
+    {
+        "deviceId": "3",
+        "type": "Apple",
+        "deviceName": "iMac",
+        "os": "Machintosh",
+        "osVersion": "10.8",
+        "ram": "4GB",
+        "memory": "500GB",
+        "macId": "XX:YY:ZZ:AA:BB",
+        "accessories": [
+            {
+                "item1": "Power Cord",
+                "item2": ""
+            }
+        ]
+    },
+    {
+        "deviceId": "4",
+        "type": "Apple",
+        "deviceName": "iMac",
+        "os": "Machintosh",
+        "osVersion": "10.8",
+        "ram": "4GB",
+        "memory": "500GB",
+        "macId": "XX:YY:ZZ:AA:BB",
+        "accessories": [
+            {
+                "item1": "Power Cord",
+                "item2": ""
+            }
+        ]
+    },
+    {
+        "deviceId": "5",
+        "type": "Apple",
+        "deviceName": "iPad",
+        "os": "iOS",
+        "osVersion": "7",
+        "ram": "1GB",
+        "memory": "16GB",
+        "macId": "XX:YY:ZZ:AA:BB",
+        "accessories": [
+            {
+                "item1": "Power Charger",
+                "item2": "USB Cable"
+            }
+        ]
+    },
+    {
+        "deviceId": "6",
+        "type": "Apple",
+        "deviceName": "iPad",
+        "os": "iOS",
+        "osVersion": "7",
+        "ram": "1GB",
+        "memory": "16GB",
+        "macId": "XX:YY:ZZ:AA:BB",
+        "accessories": [
+            {
+                "item1": "Power Charger",
+                "item2": "USB Cable"
+            }
+        ]
+    },
+    {
+        "deviceId": "7",
+        "type": "Apple",
+        "deviceName": "iPad-Mini",
+        "os": "iOS",
+        "osVersion": "7",
+        "ram": "1GB",
+        "memory": "16GB",
+        "macId": "XX:YY:ZZ:AA:BB",
+        "accessories": [
+            {
+                "item1": "Power Charger",
+                "item2": "USB Cable"
+            }
+        ]
+    },
+    {
+        "deviceId": "8",
+        "type": "Apple",
+        "deviceName": "iPhone",
+        "os": "iOS",
+        "osVersion": "7",
+        "ram": "1GB",
+        "memory": "16GB",
+        "macId": "XX:YY:ZZ:AA:BB",
+        "accessories": [
+            {
+                "item1": "Power Charger",
+                "item2": "USB Cable"
+            }
+        ]
+    },
+    {
+        "deviceId": "9",
+        "type": "Android",
+        "deviceName": "Galaxy Tab",
+        "os": "android",
+        "osVersion": "4.1",
+        "ram": "1GB",
+        "memory": "16GB",
+        "macId": "XX:YY:ZZ:AA:BB",
+        "accessories": [
+            {
+                "item1": "Power Charger",
+                "item2": "USB Cable"
+            }
+        ]
+    },
+    {
+        "deviceId": "10",
+        "type": "Android",
+        "deviceName": "Galaxy S-Duos",
+        "os": "Android Ice Cream Sandwich",
+        "osVersion": "4.1",
+        "ram": "512MB",
+        "memory": "8GB",
+        "macId": "XX:YY:ZZ:AA:BB",
+        "accessories": [
+            {
+                "item1": "Power Charger",
+                "item2": "USB Cable"
+            }
+        ]
+    },
+    {
+        "deviceId": "11",
+        "type": "Windows",
+        "deviceName": "Nokia Lumia 520",
+        "os": "Windows Phone",
+        "osVersion": "8",
+        "ram": "1GB",
+        "memory": "4GB",
+        "macId": "XX:YY:ZZ:AA:BB",
+        "accessories": [
+            {
+                "item1": "Power Charger",
+                "item2": "USB Cable"
+            }
+        ]
+    },
+    {
+        "deviceId": "12",
+        "type": "Blackberry",
+        "deviceName": "Blackberry 9360",
+        "os": "BBOS",
+        "osVersion": "7",
+        "ram": "512GB",
+        "memory": "2GB",
+        "macId": "XX:YY:ZZ:AA:BB",
+        "accessories": [
+            {
+                "item1": "Power Charger",
+                "item2": "USB Cable"
+            }
+        ]
+    }
+]

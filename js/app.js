@@ -19,7 +19,7 @@ var labG = angular.module("labG",[]);
   });
 
   labG.controller('listController',function($scope,$routeParams,$http){
-  	var serverUrl = "http://127.0.0.1:90/angular/devices.json";
+  	var serverUrl = "devices.json";
   	var post = "";
     $http({method: 'GET', url: serverUrl }).
 	  success(function(data, status, headers, config) {
