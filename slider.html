@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html ng-app="labG">
+  <head>
+    <meta charset="utf-8">
+    <title>labG - Mobile CoE</title>
+    <!-- Sets initial viewport load and disables zooming  -->
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+    <!-- Makes your prototype chrome-less once bookmarked to your phone's home screen -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">   
+    <!-- Set a shorter title for iOS6 devices when saved to home screen -->
+    <meta name="apple-mobile-web-app-title" content="labG - Mobility CoE">
+    <!-- Set Apple icons for when prototype is saved to home screen -->
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/touch-icons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/touch-icons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="images/touch-icons/apple-touch-icon-57x57.png">
+    <!-- Include the compiled Ratchet CSS -->
+    <link rel="stylesheet" href="css/ratchet.css">
+    <!-- Include the App Specific CSS Files -->
+    <link rel="stylesheet" href="css/app.css">
+    <!-- Including Angular JS -->
+    <script src="js/angular.min.js"></script>
+    <!-- App Specific Javascript Logic -->
+    <script src="js/app.js"></script>
+    <!-- Ratchet Javascript Logic -->
+    <script src="js/ratchet.js"></script>
+    
+  </head>
+  <body>
+
+  <!-- Make sure all your bars are the first things in your <body> -->
+  <header class="bar-title">
+     <a class="button-prev" id="backButton" ng-hide="true" href="#">
+        Back
+     </a>
+  <h1 class="title">labG - Mobility CoE</h1>
+  </header>
+  <div class="content">
+    <div class="slider">
+        <ul>
+          <li>
+            <img src="images/winPhone0.jpg">
+            <span class="slide-text">← Slide me</span>
+          </li>
+          <li>
+            <img src="images/winPhone1.jpg">
+          </li>
+          <li>
+            <img src="images/winPhone2.jpg">
+          </li>
+        </ul>
+    </div>
+  </div>
+  </body>
+</html>
